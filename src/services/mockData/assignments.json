@@ -1,0 +1,70 @@
+[
+  {
+    "Id": 1,
+    "lessonId": 1,
+    "title": "Sustainable Farming Reflection",
+    "instructions": "Write a short reflection (200 words) on how sustainable farming principles could be applied in your local area. Consider the environmental and economic factors specific to your region.",
+    "type": "text",
+    "submissions": [],
+    "dueDate": "2024-02-15",
+    "points": 10
+  },
+  {
+    "Id": 2,
+    "lessonId": 2,
+    "title": "Soil Assessment Practice",
+    "instructions": "Take photos of soil samples from three different locations and describe their characteristics. Upload the photos and provide a brief analysis of each sample's condition and potential improvements.",
+    "type": "photo",
+    "submissions": [
+      {
+        "id": 1,
+        "submittedAt": "2024-01-20T10:30:00Z",
+        "content": "Sample 1: Dark, rich soil with visible organic matter - appears healthy. Sample 2: Clay-heavy soil, poor drainage noticed. Sample 3: Sandy soil, needs organic matter addition.",
+        "files": ["soil-sample-1.jpg", "soil-sample-2.jpg", "soil-sample-3.jpg"],
+        "status": "graded",
+        "score": 18,
+        "feedback": "Excellent observations! Your analysis shows good understanding of soil characteristics."
+      }
+    ],
+    "dueDate": "2024-01-25",
+    "points": 20
+  },
+  {
+    "Id": 3,
+    "lessonId": 3,
+    "title": "Compost Plan Design",
+    "instructions": "Create a detailed plan for setting up a compost system suitable for your space. Include materials list, location considerations, and maintenance schedule.",
+    "type": "document",
+    "submissions": [
+      {
+        "id": 2,
+        "submittedAt": "2024-01-28T14:15:00Z",
+        "content": "I plan to set up a three-bin compost system in my backyard corner. Materials needed: wire mesh, wooden pallets, and a pitchfork. I'll maintain a 30:1 carbon to nitrogen ratio and turn the pile weekly.",
+        "files": ["compost-plan.pdf"],
+        "status": "submitted"
+      }
+    ],
+    "dueDate": "2024-02-01",
+    "points": 15
+  },
+  {
+    "Id": 4,
+    "lessonId": 8,
+    "title": "Personal Budget Creation",
+    "instructions": "Create your own monthly budget using the template provided. Include all income sources and categorize your expenses. Set at least one savings goal.",
+    "type": "document",
+    "submissions": [],
+    "dueDate": "2024-02-10",
+    "points": 25
+  },
+  {
+    "Id": 5,
+    "lessonId": 12,
+    "title": "Emergency Scenario Response",
+    "instructions": "Choose one emergency scenario from the list provided and write a detailed response plan. Include step-by-step actions, when to call for help, and follow-up care considerations.",
+    "type": "text",
+    "submissions": [],
+    "dueDate": "2024-02-20",
+    "points": 30
+  }
+]

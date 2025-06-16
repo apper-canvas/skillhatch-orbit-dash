@@ -1,0 +1,90 @@
+[
+  {
+    "Id": 1,
+    "userId": 1,
+    "overallProgress": 45,
+    "totalHoursLearned": 45,
+    "coursesCompleted": 2,
+    "totalCourses": 5,
+    "currentStreak": 7,
+    "longestStreak": 14,
+    "lastActivity": "2024-01-25T16:30:00Z",
+    "courses": [
+      {
+        "courseId": 1,
+        "courseName": "Sustainable Farming Basics",
+        "progress": 75,
+        "completedLessons": [1, 2, 3],
+        "totalLessons": 4,
+        "hoursSpent": 6.5,
+        "startedDate": "2024-01-10",
+        "lastAccessed": "2024-01-25T16:30:00Z",
+        "status": "in-progress"
+      },
+      {
+        "courseId": 3,
+        "courseName": "Personal Budgeting",
+        "progress": 100,
+        "completedLessons": [8, 9, 10, 11],
+        "totalLessons": 4,
+        "hoursSpent": 5,
+        "startedDate": "2024-01-15",
+        "completedDate": "2024-02-20",
+        "lastAccessed": "2024-02-20T14:20:00Z",
+        "status": "completed"
+      },
+      {
+        "courseId": 4,
+        "courseName": "First Aid Essentials",
+        "progress": 20,
+        "completedLessons": [12],
+        "totalLessons": 5,
+        "hoursSpent": 3,
+        "startedDate": "2024-02-01",
+        "lastAccessed": "2024-02-05T09:15:00Z",
+        "status": "in-progress"
+      },
+      {
+        "courseId": 2,
+        "courseName": "Crop Rotation Mastery",
+        "progress": 0,
+        "completedLessons": [],
+        "totalLessons": 3,
+        "hoursSpent": 0,
+        "status": "not-started"
+      },
+      {
+        "courseId": 5,
+        "courseName": "Nutrition & Wellness",
+        "progress": 0,
+        "completedLessons": [],
+        "totalLessons": 3,
+        "hoursSpent": 0,
+        "status": "not-started"
+      }
+    ],
+    "skillLevels": {
+      "farming": {
+        "level": "Intermediate",
+        "progress": 65,
+        "completedSkills": ["Soil Management", "Composting"],
+        "inProgressSkills": ["Crop Rotation"],
+        "totalSkills": 8
+      },
+      "finance": {
+        "level": "Advanced",
+        "progress": 85,
+        "completedSkills": ["Expense Tracking", "Saving Goals", "Debt Management", "Emergency Fund"],
+        "inProgressSkills": [],
+        "totalSkills": 6
+      },
+      "health": {
+        "level": "Beginner",
+        "progress": 25,
+        "completedSkills": ["CPR"],
+        "inProgressSkills": ["First Aid"],
+        "totalSkills": 12
+      }
+    }
+  }
+]

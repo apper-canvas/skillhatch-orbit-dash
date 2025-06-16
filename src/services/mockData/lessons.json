@@ -1,0 +1,163 @@
+[
+  {
+    "Id": 1,
+    "courseId": 1,
+    "title": "Introduction to Sustainable Farming",
+    "videoUrl": "/videos/farming-intro.mp4",
+    "duration": 120,
+    "order": 1,
+    "description": "Understanding the principles of sustainable agriculture",
+    "steps": [
+      {
+        "id": 1,
+        "title": "What is Sustainable Farming?",
+        "content": "Sustainable farming is an approach that meets current food needs while preserving resources for future generations.",
+        "image": "/images/sustainable-concept.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Core Principles",
+        "content": "The three pillars of sustainability: environmental health, economic profitability, and social equity.",
+        "image": "/images/three-pillars.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Benefits Overview",
+        "content": "Learn about improved soil health, reduced chemical inputs, and long-term viability.",
+        "image": "/images/benefits.jpg"
+      }
+    ],
+    "assignments": [1],
+    "completed": false
+  },
+  {
+    "Id": 2,
+    "courseId": 1,
+    "title": "Soil Health Assessment",
+    "videoUrl": "/videos/soil-health.mp4",
+    "duration": 150,
+    "order": 2,
+    "description": "Learn to test and evaluate soil conditions",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Visual Soil Assessment",
+        "content": "How to identify healthy soil through visual cues like color, texture, and organic matter.",
+        "image": "/images/soil-visual.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Simple pH Testing",
+        "content": "Using basic tools to test soil pH and understand its impact on plant growth.",
+        "image": "/images/ph-testing.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Soil Amendment Basics",
+        "content": "Introduction to organic amendments like compost and natural fertilizers.",
+        "image": "/images/amendments.jpg"
+      }
+    ],
+    "assignments": [2],
+    "completed": true
+  },
+  {
+    "Id": 3,
+    "courseId": 1,
+    "title": "Composting Fundamentals",
+    "videoUrl": "/videos/composting.mp4",
+    "duration": 90,
+    "order": 3,
+    "description": "Creating nutrient-rich compost for your farm",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Compost Ingredients",
+        "content": "Understanding the carbon-nitrogen balance with browns and greens.",
+        "image": "/images/compost-ingredients.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Building Your Pile",
+        "content": "Step-by-step instructions for creating an effective compost pile.",
+        "image": "/images/compost-pile.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Maintenance & Troubleshooting",
+        "content": "How to maintain proper moisture, temperature, and turn your compost.",
+        "image": "/images/compost-maintenance.jpg"
+      }
+    ],
+    "assignments": [3],
+    "completed": true
+  },
+  {
+    "Id": 8,
+    "courseId": 3,
+    "title": "Creating Your First Budget",
+    "videoUrl": "/videos/first-budget.mp4",
+    "duration": 75,
+    "order": 1,
+    "description": "Step-by-step guide to creating a personal budget",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Calculate Your Income",
+        "content": "List all sources of monthly income including salary, side jobs, and other earnings.",
+        "image": "/images/income-calc.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Track Your Expenses",
+        "content": "Categorize and track all monthly expenses from fixed costs to variable spending.",
+        "image": "/images/expense-tracking.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Set Realistic Goals",
+        "content": "Establish achievable savings goals and spending limits for each category.",
+        "image": "/images/budget-goals.jpg"
+      }
+    ],
+    "assignments": [4],
+    "completed": true
+  },
+  {
+    "Id": 12,
+    "courseId": 4,
+    "title": "Basic Life Support",
+    "videoUrl": "/videos/basic-life-support.mp4",
+    "duration": 180,
+    "order": 1,
+    "description": "Essential CPR and emergency response techniques",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Scene Assessment",
+        "content": "How to safely approach and evaluate an emergency situation.",
+        "image": "/images/scene-assessment.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Check Responsiveness",
+        "content": "Proper techniques for checking if a person is conscious and responsive.",
+        "image": "/images/responsiveness.jpg"
+      },
+      {
+        "id": 3,
+        "title": "CPR Technique",
+        "content": "Hands-on CPR instruction with proper hand placement and compression depth.",
+        "image": "/images/cpr-technique.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Recovery Position",
+        "content": "How to place an unconscious but breathing person in the recovery position.",
+        "image": "/images/recovery-position.jpg"
+      }
+    ],
+    "assignments": [5],
+    "completed": false
+  }
+]

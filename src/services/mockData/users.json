@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@email.com",
+    "skillCategories": ["farming", "health", "finance"],
+    "completedLessons": [1, 2, 3, 5, 8],
+    "currentLevel": {
+      "farming": "Intermediate",
+      "health": "Beginner",
+      "finance": "Advanced"
+    },
+    "certificates": [
+      {
+        "id": 1,
+        "courseId": 1,
+        "courseName": "Sustainable Farming Basics",
+        "issuedDate": "2024-01-15",
+        "certificateUrl": "/certificates/cert-001.pdf"
+      },
+      {
+        "id": 2,
+        "courseId": 3,
+        "courseName": "Personal Budgeting",
+        "issuedDate": "2024-02-20",
+        "certificateUrl": "/certificates/cert-002.pdf"
+      }
+    ],
+    "joinedDate": "2023-12-01",
+    "totalHoursLearned": 45
+  }
+]
