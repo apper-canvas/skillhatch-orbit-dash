@@ -28,10 +28,10 @@ export default {
           800: '#2D5016',
           900: '#233f11'
         },
-        warm: {
+warm: {
           50: '#fefaf9',
           100: '#fdf4f0',
-          200: FAFAF8',
+          200: '#FAFAF8',
           300: '#F5F5F0',
           400: '#e8e3de',
           500: '#d4ccc4',

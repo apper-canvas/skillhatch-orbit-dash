@@ -26,14 +26,13 @@ body {
 
 @layer utilities {
   /* Only use scrollbar-hide for specific UI elements, never main content */
-  .scrollbar-hide {
+.scrollbar-hide {
     -ms-overflow-style: none;
     scrollbar-width: none;
   }
   .scrollbar-hide::-webkit-scrollbar {
     display: none;
   }
-}
 
 /* Custom scrollbar styling */
 ::-webkit-scrollbar {
@@ -48,7 +47,7 @@ body {
   background: #c1c1c1;
   border-radius: 3px;
 }
-
-::-webkit-scrollbar-thumb:hover {
+:::-webkit-scrollbar-thumb:hover {
   background: #a1a1a1;
+}
 }
